@@ -14,8 +14,6 @@
             "Nickvision Parabolic"
         ]
     ],
-    "persist": [
-    ],
     "checkver": {
         "url": "https://github.com/NickvisionApps/Parabolic/releases",
         "regex": "/releases/tag/(?:v|V)?([\\d.]+)"
